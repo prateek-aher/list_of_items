@@ -40,7 +40,7 @@ flutter create --platforms web my_list_app
 
 3. Run the application:
 ```bash
-flutter run -d chrome
+flutter pub get && flutter run -d chrome
 ```
 
 ## Architecture
