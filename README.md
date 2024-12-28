@@ -6,10 +6,9 @@
 3. [Architecture](#architecture)
 4. [Features](#features)
 5. [Code Structure](#code-structure)
-6. [Testing](#testing)
-7. [UI/UX Considerations](#uiux-considerations)
-8. [Best Practices](#best-practices)
-9. [Troubleshooting](#troubleshooting)
+6. [UI/UX Considerations](#uiux-considerations)
+7. [Best Practices](#best-practices)
+8. [Troubleshooting](#troubleshooting)
 
 ## Overview
 
